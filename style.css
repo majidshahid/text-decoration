@@ -1,0 +1,42 @@
+.fone {
+    text-decoration-line: underline;
+}
+.ftwo {
+    text-decoration-line: line-through;
+}
+.fthree {
+    text-decoration-line: overline;
+}
+.ffour {
+    text-decoration-line: none;
+}
+.sone{
+text-decoration-color:rgb(223, 128, 128) ;
+}
+.stwo{
+    text-decoration-color:	red;
+}
+.tone{
+    text-decoration-line: underline;
+    text-decoration-style:dashed ;
+}
+.ttwo{
+    text-decoration-line: underline;
+    text-decoration-style:dotted ;
+}
+.tthree{
+    text-decoration-line: underline;
+    text-decoration-style:solid ;
+}
+.tfour{
+    text-decoration-line: underline;
+    text-decoration-style:double ;
+}
+.tfive{
+    text-decoration-line: underline;
+    text-decoration-style:wavy ;
+}
+.first{
+    text-decoration: underline red double ;
+}
+
